@@ -44,7 +44,7 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com:yemi33/sfg-pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>sfg-pet-clinic-2.3.1.RELEASE</tag>
     </scm>
 
 </project>
