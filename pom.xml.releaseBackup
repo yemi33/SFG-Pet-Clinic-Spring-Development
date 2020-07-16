@@ -43,7 +43,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com:yemi33/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:yemi33/sfg-pet-clinic.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
