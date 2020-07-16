@@ -42,7 +42,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:git@github.com:yemi33/sfg-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/yemi33/sfg-pet-clinic.git</developerConnection>
         <tag>sfg-pet-clinic-y</tag>
     </scm>
 
